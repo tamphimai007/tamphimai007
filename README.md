@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Japhichom Phongphat</h1>
-<h3 align="center">My name is "Tam" My Chanel Roitai-Dev รอยไถ พัฒนา https://www.youtube.com/@roitai-dev</h3>
+<h3 align="center">My name is "Tam" My Channel Roitai-Dev รอยไถ พัฒนา https://www.youtube.com/@roitai-dev</h3>
 
 - 🌱 I’m currently learning **React, NextJS, NodeJS, ExpressJS**
 
